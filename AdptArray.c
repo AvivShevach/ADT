@@ -1,3 +1,4 @@
+//  נעזרתי בפיתרון של מועד א 2023 בתכנות מערכות 1
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
